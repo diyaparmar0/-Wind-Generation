@@ -1,5 +1,5 @@
 # Wind forecast monitor (UK day-ahead)
-AI assistance (Claude) was used to scaffold this code. Live app: <ADD HEROKU/RENDER URL>
+AI assistance (Claude) was used to scaffold this code. Live app: <https://wind-generation.vercel.app>
 
 ## Layout
 - `backend/app/main.py` – FastAPI: pulls Elexon FUELHH (WIND) and WINDFOR, caches, computes day-ahead selection + metrics
